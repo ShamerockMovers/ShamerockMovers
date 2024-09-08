@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShamerockMovers
+- 👋 Hi, I’m Sambit!
 - 👀 I’m interested in development and problem-solving
 - 🌱 I’m currently learning Computer Science and Engineering from Jadavpur University
 - 📫 Feel free to contact me at sambitsarkar1812@gmail.com
